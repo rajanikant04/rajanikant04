@@ -5,11 +5,8 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/rajanikant-singh" target="blank">
+  <a href="www.linkedin.com/in/rajanikant-singh-944497257" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="mailto:your-email@example.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
 
@@ -38,3 +35,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
 </p>
+
+
